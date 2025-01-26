@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sagar-patil-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-patil-508136205/) 
 
 # 💻 Tech Stack:
